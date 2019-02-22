@@ -30,3 +30,42 @@
     transform: rotate(360deg);
   }
 }
+
+.countriesList {
+  background-color: #f0ebd8;
+}
+.countriesList,
+.countriesLists {
+  width: 40vw;
+  float: left;
+  text-align: left;
+  margin-left: 40px;
+}
+
+.countriesList h2 {
+  margin: 40px;
+}
+
+.borderlist {
+  list-style-type: none;
+}
+
+.countryDetails {
+  float: left;
+  margin: 40px;
+}
+
+.countryDetails h5,
+p,
+ul {
+  text-align: center;
+  padding: 0;
+  color: #f0ebd8;
+}
+
+.card {
+  float: left;
+  margin-top: 40px;
+  margin-left: 40px;
+  background-color: #748cab !important;
+}
